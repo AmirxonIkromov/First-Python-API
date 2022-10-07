@@ -1,0 +1,15 @@
+asgiref==3.5.2
+category==0.0.3
+cffi==1.15.1
+cryptography==38.0.1
+Django==4.1.1
+django-filter==22.1
+django-rest-knox==4.2.0
+djangorestframework==3.14.0
+Markdown==3.4.1
+numpy==1.23.3
+product==0.1.1.1
+psycopg2==2.9.3
+pycparser==2.21
+pytz==2022.2.1
+sqlparse==0.4.3
